@@ -1,7 +1,6 @@
 {
   "name": "nuxt-starter-fireblog",
   "version": "0.2.0",
-  "private": true,
   "description": "nuxt theme",
   "author": "thomas laroudie",
   "scripts": {
